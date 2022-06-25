@@ -3,37 +3,37 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 
-![Visitor Count](https://profile-counter.glitch.me/{xeniabarreto}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{CarolArcanjo}/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vinde!;Sou+a+Xênia!;Desenvolvedora+Backend...;Moro+em+São+Paulo-SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vinde!;Sou+a+Carol!;Desenvolvedora+Backend...;Moro+em+Paraí-RS)](https://git.io/typing-svg)
 
 
 
 - 😄 Pronomes: ... Ela/Dela
-- ⚡ Curiosidade ... Eu sou uma violinista. 😎 
+- ⚡ Curiosidade ... Eu sou uma Boleira de mão cheia. 😎 
 
 <br>
 
-[![Github](https://img.shields.io/github/followers/xeniabarreto?label=Follow&style=social)](https://github.com/xeniabarreto)
+[![Github](https://img.shields.io/github/followers/CarolArcanjo?label=Follow&style=social)](https://github.com/CarolArcanjo)
 
 
 <h3> Sobre mim: </h3>
 
-- 💖 Desenvolvo APIs RESTfull
-- 🔭 Atualmente trabalho como analista de desenvolvimento na Queima Diária.
-- 📰 Formada em Processos Gerenciais pela Uninove e Desenvolvedora Web Backend pela [{Reprograma}](https://reprograma.com.br/) 
-- 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/) e  [Danillo Souza](https://www.linkedin.com/in/danillofs/) - (toda minha GRATIDÃO).
-- 👯 Atualizada sobre Scrum, Lean, Kanban e Customer experience
+- 💖 Estou em transição de carreira para área de tecnologia.
+- 🔭 Atualmente trabalho como consultora na CVC Corp.
+- 📰 Formada em Administração de empresas e cursando desenvolvimento Web Backend pela [PretaLab](https://pretalab.com/) 
+- 🌱 Morei durante 02 anos em Dublin-Irlanda e possuo Inglês avançado.
+- 👯 Aprendendo sobre Git/GitHub,CSS,HTML e lógica de programação em Java.
 - 💬 Soft skills: resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
-- 📫 Para falar comigo: <strong>xeniabarreto22@gmail.com</strong></li>  </ul>
+- 📫 Para falar comigo: <strong>acarolarcanjo@outlook.com</strong></li>  </ul>
 
 <!-- CONNECTION -->
 <hr>      
 <h3 align=>Conecte-se comigo:</h3>
 <p align=>
 
-<a href="https://www.linkedin.com/in/xênia-barreto-020334209/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xênia-barreto-020334209" height="30" width="40" /></a>
-<a href="https://instagram.com/xeniabarreto" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xeniabarreto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ana-Carolinaarcanjo/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-Carolinaarcanjo" height="30" width="40" /></a>
+<a href="https://instagram.com/Carolinaarcanjo" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CarolArcanjo" height="30" width="40" /></a>
 </p>
 
 
@@ -58,10 +58,8 @@
 <br>
 
 <div>
-  <a href="https://beacons.ai/xeniabarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xeniabarreto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniabarreto&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://beacons.ai/CarolArcanjo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolArcanjo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolArcanjo&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  
-![Snake animation](https://github.com/xeniabarreto/xeniabarreto/blob/output/github-contribution-grid-snake.svg)
