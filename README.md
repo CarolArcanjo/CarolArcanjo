@@ -20,12 +20,12 @@
 <h3> Sobre mim: </h3>
 
 - 💖 Estou em transição de carreira para área de tecnologia.
-- 🔭 Atualmente trabalho como consultora na CVC Corp.
+- 🔭 Atualmente trabalho como health care assistant na empresa [CareChoice](https://carechoice.ie/dungarvan) em Dungarvan.
 - 📰 Formada em Administração de empresas e cursando desenvolvimento Web Backend pela [PretaLab](https://pretalab.com/) 
-- 🌱 Morei durante 02 anos em Dublin-Irlanda e possuo Inglês avançado.
+- 🌱 Morei durante 02 anos em Dublin-Irlanda, Atualmente morando no interior de Waterfor-Irlanda e possuo Inglês avançado.
 - 👯 Aprendendo sobre Git/GitHub,CSS,HTML e lógica de programação em Java.
 - 💬 Soft skills: resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
-- 📫 Para falar comigo: <strong>acarolarcanjo@outlook.com</strong></li>  </ul>
+- 📫 Para falar comigo: <strong>acarolarcanjo@gmail.com</strong></li>  </ul>
 
 <!-- CONNECTION -->
 <hr>      
